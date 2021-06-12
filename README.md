@@ -4,4 +4,4 @@ A website to view football league data, made with reactjs, react-bootstrap, and 
 
 ## Live Site
 
-In the project directory, you can run:
+visit - https://soccer-world-2021.netlify.app/
