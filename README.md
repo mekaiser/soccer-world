@@ -1,6 +1,6 @@
 # Soccer World
 
-![Soccer World](https://raw.githubusercontent.com/mekaiser/enfix-client/main/src/images/enfix.png)
+![Soccer World](https://raw.githubusercontent.com/mekaiser/soccer-world/main/src/images/soccer-world-github-cover.png)
 
 A simple website to view details of football leagues.
 
