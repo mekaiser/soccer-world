@@ -1,7 +1,13 @@
 # Soccer World
 
-A website to view football league data, made with reactjs, react-router, react-bootstrap, and TheSportsDB API. The home page of this site shows the name, logo, sports type of the leagues, and an explore button for each. By clicking the explore button one can get the details of that league like foundation date, country, gender and a short description about that league.
+![Soccer World](https://raw.githubusercontent.com/mekaiser/enfix-client/main/src/images/enfix.png)
 
-## Live Site
+A simple website to view details of football leagues.
 
-visit - https://soccer-world-2021.netlify.app/
+## MADE WITH
+
+- React JS
+- React Bootstrap
+- TheSportsDB API
+
+### `LIVE SITE:` [Soccer World](https://soccer-world-2021.netlify.app/)
